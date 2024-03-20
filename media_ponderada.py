@@ -1,0 +1,5 @@
+n1 = float(input('Digite sua nota aqui de peso 2: '))
+n2 = float(input('Digite a sua nota aqui de peso 4: '))
+n3 = float(input('Digite a sua nota aqui de peso 8: '))
+media = (n1*2 + n2*4 + n3*8) / (2 + 4 + 8)
+print(f'A média ponderada do aluno é {media:.2f} ')
