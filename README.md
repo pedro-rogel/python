@@ -1,1 +1,1 @@
-<h1> Aguls exercicios em python, onde conseigo mostrar minhas habilidades!
+<h1> Alguls exercicios em python, onde conseigo mostrar minhas habilidades!
